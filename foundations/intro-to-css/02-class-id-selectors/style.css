@@ -1,0 +1,18 @@
+.odd {
+    background-color: #FE8181;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.even {
+    font-size: 24px;
+}
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+#iamid {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
